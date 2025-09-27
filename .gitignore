@@ -21,6 +21,7 @@
 # Simulation results
 results/simulation_data.mat
 results/plots/*.png
+results/slprj
 
 # OS files
 .DS_Store
