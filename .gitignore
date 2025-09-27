@@ -1,0 +1,31 @@
+# MATLAB
+*.asv
+*.mex*
+*.mat
+*.mdl
+*.slxc
+*.slxp
+*.slprj
+*_autosave.m
+*.fig
+*.log
+*.mexa64
+*.mexw64
+*.mexw32
+*.mexmaci64
+*.slxc
+*.sldd
+*.sldv
+*.tmp
+
+# Simulation results
+results/simulation_data.mat
+results/plots/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
